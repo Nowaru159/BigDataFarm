@@ -1,0 +1,5 @@
+#Isso aqui é pra não precisarmos ficar jogando o arquivo dentro do Colab
+import pandas as pd
+import matplotlib.pyplot as plt
+from google.colab import drive
+drive.mount('/content/drive')
